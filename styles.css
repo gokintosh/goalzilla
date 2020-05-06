@@ -1,0 +1,15 @@
+.row{
+    /* background-color: rgb(201, 229, 182); */
+    border-radius: 5px;
+}
+.col1{
+    background-color: silver;
+}
+.second-col{
+    background-color: snow;
+    border:thistle 2px solid;
+    
+}
+.container{
+    border-radius: 10px;
+}
